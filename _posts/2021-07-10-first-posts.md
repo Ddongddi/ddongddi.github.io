@@ -3,9 +3,9 @@ title:  "공식 블로그 준비중"
 excerpt: "현재 블로그 계획 알려드립니다."
 
 categories:
-  - information
+  - 공지
 tags:
-  - important
+  - 중요!
 last_modified_at: 2021-07-10T08:06:00-05:00
 ---
 
