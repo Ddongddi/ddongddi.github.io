@@ -1,6 +1,6 @@
 ---
-title:  "똥띠 봇 스튜디오 규칙"
-excerpt: "똥띠 봇 스튜디오 규칙입니다."
+title:  "똥띠 봇 스튜디오 서비스 약관"
+excerpt: "똥띠 봇 스튜디오 서비스 약관입니다. 꼭 확인하시기 바랍니다."
 
 categories:
   - Bot-Studio
@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2021-07-13T08:06:00-05:00
 ---
 
-# Ddongddi Bot Studio 규칙
+# Ddongddi Bot Studio 서비스 약관
 
 1. 서비스 제공
 
