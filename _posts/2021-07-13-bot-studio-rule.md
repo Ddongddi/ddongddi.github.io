@@ -3,7 +3,7 @@ title:  "똥띠 봇 스튜디오 규칙"
 excerpt: "똥띠 봇 스튜디오 규칙입니다."
 
 categories:
-  - Bot Studio
+  - Bot-Studio
 tags:
   - 중요!
 last_modified_at: 2021-07-13T08:06:00-05:00
