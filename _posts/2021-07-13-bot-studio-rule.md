@@ -62,4 +62,5 @@ last_modified_at: 2021-07-13T08:06:00-05:00
     * 그 외 기능은 빠른 시일 내에 만들어집니다.
 
 [디스코드 ToS](https://discord.com/terms)
+
 [디스코드 커뮤니티 가이드라인](https://discord.com/guidelines)
