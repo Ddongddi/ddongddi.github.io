@@ -1,6 +1,6 @@
 ---
-title:  "공식 블로그 준비중"
-excerpt: "현재 블로그 계획 알려드립니다."
+title:  "똥띠 봇 스튜디오 규칙"
+excerpt: "똥띠 봇 스튜디오 규칙입니다."
 
 categories:
   - Bot Studio
